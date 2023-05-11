@@ -1,0 +1,5 @@
+Soccer league schema: https://dbdiagram.io/d/645a1beedca9fb07c4c1d1d6
+
+Craigslist schema: https://dbdiagram.io/d/645a19b8dca9fb07c4c1a8ac
+
+Medical Center schema: https://dbdiagram.io/d/645a1970dca9fb07c4c1a24d
